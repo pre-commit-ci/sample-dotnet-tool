@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <OutputType>Exe</OutputType>
     <PackAsTool>true</PackAsTool>
-    <PackageId>Rkm.SampleDotnetTool</PackageId>
+    <PackageId>SampleDotnetTool</PackageId>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageOutputPath>./nupkg</PackageOutputPath>
     <RepositoryType>git</RepositoryType>
