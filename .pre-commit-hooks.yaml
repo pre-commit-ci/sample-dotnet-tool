@@ -1,4 +1,4 @@
 -   id: sample-dotnet-tool
     name: run the sample tool
-    entry: dotnet sample-tool
+    entry: sample-tool
     language: dotnet
